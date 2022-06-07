@@ -1,0 +1,1 @@
+Hello, this is a test. I hope I don't get deleted when my parent folder gets turned into a submodule.
